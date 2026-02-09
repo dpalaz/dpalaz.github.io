@@ -4,4 +4,4 @@ title: "Dimitri Palaz"
 ---
 Under construction
 
-Please visit [palaz.site](palaz.site)
+Please visit [palaz.site](http://palaz.site)
