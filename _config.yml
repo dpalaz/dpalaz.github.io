@@ -1,3 +1,20 @@
-theme: jekyll-theme-minimal
 title: Dimitri Palaz
-description: Under construction, please visit palaz.site
+description: >-
+  Researcher in Speech Technology. Principal Research Scientist at Speech Graphics,
+  focused on deep learning for speech and audio processing.
+baseurl: ""
+theme: minima
+paginate: 5
+
+collections:
+  publications:
+    output: true
+  awards:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      layout: "post"
